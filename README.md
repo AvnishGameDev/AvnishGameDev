@@ -1,4 +1,8 @@
 ![AvnishGameDevBanner](https://user-images.githubusercontent.com/64523755/220090252-6795d816-ccb6-4b76-82aa-1f8aca9af953.png)
+
+<h1 align="center">Hi 👋, I'm Avnish Kirnalli</h1>
+<h3 align="center">A Game Developer. Bringing your favorite games to life, one line of code at a time.</h3>
+
 # 💫 About Me:
 I'm Avnish, I am Developing Games for the last 4 years, I use C++ to develop my games and also use Unreal Engine for production projects. I have completed a few courses, and after the courses, I have learned on my own, and I have worked with Studios / Companies to help their projects grow, I have also made some open-source projects available to everyone to develop further and use it for their purpose. I've also learned basic graphics in OpenGL. I can develop games for IOS, Android, PC, PlayStation™, Xbox™, etc. I am also a verified developer for PlayStation™ and Xbox™. I have also made multiple Multiplayer Projects along the way as well. I am currently working on my 2D Game Engine. I would love to develop more Games.
 
@@ -16,6 +20,6 @@ I'm Avnish, I am Developing Games for the last 4 years, I use C++ to develop my 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=AvnishGameDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-![quotefinal](https://user-images.githubusercontent.com/64523755/220002225-35967046-d841-4065-8c65-6f311f4bdf6b.png)
+![quote-transparent](https://user-images.githubusercontent.com/64523755/220112564-fd0dfd0c-7c42-43d4-a2fb-2de6a2586b69.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
