@@ -18,7 +18,9 @@ I'm Avnish, I am Developing Games for the last 4 years, I use C++ to develop my 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvnishGameDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=AvnishGameDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=AvnishGameDev&theme=github_dark)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+#
 
 ![quote-transparent](https://user-images.githubusercontent.com/64523755/220112564-fd0dfd0c-7c42-43d4-a2fb-2de6a2586b69.png)
 
