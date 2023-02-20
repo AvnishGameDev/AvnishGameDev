@@ -15,6 +15,6 @@ I'm Avnish, I am Developing Games for the last 4 years using Unreal Engine and C
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=AvnishGameDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-![Bringing your favorite worlds to life, one line of code at a time](https://user-images.githubusercontent.com/64523755/220001589-6b4321be-8594-4188-a8fd-9be4a99ab06f.png)
+![quote](https://user-images.githubusercontent.com/64523755/220001851-1c809822-142f-47d9-9cac-cdebf445c05b.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
