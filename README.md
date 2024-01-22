@@ -4,7 +4,7 @@
 <h3 align="center">A Game Programmer, Bringing your favorite games to life, one line of code at a time.</h3>
 
 # 💫 About Me:
-I'm Avnish, I am Developing Games for the last 4 years, I use C++ to develop my games and also use Unreal Engine for production projects. I have completed a few courses, and after the courses, I have learned on my own, and I have worked with Studios / Companies to help their projects grow, I have also made some open-source projects available to everyone to develop further and use it for their purpose. I've also learned basic graphics in OpenGL. I can develop games for IOS, Android, PC, PlayStation™, Xbox™, etc. I have also made multiple Multiplayer Projects along the way as well. I am currently working on my 2D Game Engine. I would love to develop more Games.
+I'm Avnish, I am Developing Games for the last 5 years, I use C++ to develop my games and also use Unreal Engine for production projects. I have completed a few courses, and after the courses, I have learned on my own, and I have worked with Studios / Companies to help their projects grow, I have also made some open-source projects available to everyone to develop further and use it for their purpose. I've also learned basic graphics in OpenGL. I can develop games for IOS, Android, PC, PlayStation™, Xbox™, etc. I have also made multiple Multiplayer Projects along the way as well. I am currently working on my 2D Game Engine. I would love to develop more Games.
 
 
 ## 🌐 Socials:
